@@ -2,6 +2,8 @@
 
 # Lunar 360
 
+[![MSBuild](https://github.com/Imagine-Programming/lunar360/actions/workflows/msbuild.yml/badge.svg?branch=main)](https://github.com/Imagine-Programming/lunar360/actions/workflows/msbuild.yml)
+
 Lunar 360 is a simple binding between XInput and Lua 5.4 with a polling process putting it together. It allows you to decide how you would like to use your XBox controller outside of games, for example as an HID. The included example script (`src/lunar360.lua`) translates inputs from the controller to mouse and keyboard inputs to the system.
 
 ## Alternatives
