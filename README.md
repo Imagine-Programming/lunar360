@@ -17,6 +17,8 @@ If you require a bit of support, you can open an issue here and ask a question. 
 
 ## Usage
 
+Check out the [getting started][5] topic from the documentation.
+
 For information about how to customize the behavior of lunar360, check out the [extensive documentation][4] on all the currently included features. It's all Lua, so the possibilities are limitless. 
 
 ## Contributing
@@ -34,3 +36,4 @@ Please make sure to update any existing tests as appropriate.
 [2]: https://github.com/Tylemagne/Gopher360
 [3]: https://twitter.com/BGroothedde
 [4]: https://imagine-programming.github.io/lunar360
+[5]: https://imagine-programming.github.io/lunar360/#/getting-started
