@@ -9,6 +9,7 @@
 #include <optional>
 #include <stdexcept>
 #include <functional>
+#include <chrono>
 
 #pragma comment(lib, "XInput.lib")
 #pragma comment(lib, "Xinput9_1_0.lib")
